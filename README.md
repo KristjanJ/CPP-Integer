@@ -1,7 +1,7 @@
 CPP-Integer
 ===========
 
-A very simple class for arbitrary precision arithmetic.
+A very simple C++ class for arbitrary precision arithmetic. You should use a compiler that supports C++11. VC++2010/VC++2012 and the latest gcc are capable of compiling this.
 
 Output of the sample program:
 
